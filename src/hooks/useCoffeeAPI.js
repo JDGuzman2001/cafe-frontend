@@ -1,6 +1,6 @@
 import { useMutation } from "@tanstack/react-query"
 
-const API_URL = 'https://c493-191-156-158-153.ngrok-free.app/'
+const API_URL = 'https://a27657a415fa.ngrok-free.app/'
 
 
 // Hook específico para el endpoint set-variable
